@@ -44,6 +44,12 @@ To install these:
 * Click Yes when prompted to install the Dart plugin.
 * Click Restart when prompted.
 
+# Layouts in Flutter
+
+The core of Flutter’s layout mechanism is widgets. In Flutter, almost everything is a widget—even layout models are widgets. The images, icons, and text that you see in a Flutter app are all widgets. But things you don’t see are also widgets, such as the rows, columns, and grids that arrange, constrain, and align the visible widgets.
+
+
+
 # StatelessWidget vs StatefulWidget
 A StatelessWidget will never rebuild by itself (but can from external events). A StatefulWidget can. That is the golden rule.
 
