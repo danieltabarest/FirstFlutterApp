@@ -23,6 +23,18 @@ flutter doctor
 * Android Studio 
 * Visual Studio Code Or anything else using console
 
+# Flutter Studio, Version 2
+The new version
+
+* Is responsive
+* Shows real Android and iOS devices accurately on the web
+* Produces and shows pixel perfect designs
+* Provides more widgets (including themes)
+* Allows you to edit the widgets intuitively, producing accurate code
+* Focuses on design (code and pubspec are on separate tabs)
+* Produces complete, working application code and pubspec.yaml files
+* The new version is available at https://flutterstudio.app
+
 # Install the Flutter and Dart plugins
 To install these:
 
