@@ -7,9 +7,9 @@ A new Flutter project.
 * A new multiplatform mobile development SDK based on Dart with inspiration on React
 * First alpha release on Christmas 2015 But gaining traction this year,the stable release: Flutter 1.0 - 2018;
 * Same source code for both Android and iOS Material + Cupertino Native plugins
-* Created by Google as a JS transpilation language Widely used at Google Javascript-ish enough to start using it
-* Compare Update diff Real DOM Virtual DOM Application UI R e n d e r Canvas Events
-* Widget Tree R e n d e r Canvas Events Application Platform
+* Created by Google
+* Compare Update diff Real DOM Virtual DOM Application UI Render Canvas Events
+* Widget Tree Render Canvas Events Application Platform
 
 # How to start?
 * Clone flutter repository 
